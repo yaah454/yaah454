@@ -9,7 +9,7 @@ React Native and Expo Router for mobile app development. I’m also diving into 
 Projects involving mobile app development, open-source contributions, or any interesting tech challenges. I’m especially interested in collaborating on projects that involve creative problem-solving and cutting-edge technology.
 
 📫 How to reach me:
-Feel free to reach out via email at [your-email@example.com] or connect with me on LinkedIn or GitHub.
+Feel free to reach out via email at [yaahandreas001@gmail.com.com] or connect with me on LinkedIn or GitHub.
 
 😄 Pronouns:
 He/Him
